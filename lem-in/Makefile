@@ -6,7 +6,7 @@
 #    By: jpallard <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/06/06 15:27:52 by jpallard          #+#    #+#              #
-#    Updated: 2017/10/26 14:42:14 by jpallard         ###   ########.fr        #
+#    Updated: 2018/04/20 15:43:25 by jpallard         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,10 +18,10 @@ FLAGS =  -Wall -Wextra -Werror
 LIB_PATH = $(INC_PATH)libft/
 
 INC = $(addprefix -I , $(INC_PATH))
-INC_PATH = ./include/
+INC_PATH = ../
 
 SRC_SWAP = $(addprefix $(SRC_SWAP_PATH), $(SRC_SWAP_FILE))
-SRC_SWAP_PATH = ./drlem_in/
+SRC_SWAP_PATH = ./srcs/
 SRC_SWAP_FILE =	main.c\
 				ft_checkline.c\
 				ft_longatoi.c\

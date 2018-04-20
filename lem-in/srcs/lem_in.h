@@ -6,14 +6,14 @@
 /*   By: jpallard <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/06/06 15:46:48 by jpallard          #+#    #+#             */
-/*   Updated: 2017/09/24 16:50:25 by jpallard         ###   ########.fr       */
+/*   Updated: 2018/04/20 15:38:44 by jpallard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LEM_IN_H
 # define LEM_IN_H
 
-# include "../include/libft/libft.h"
+# include "../../libft/libft.h"
 # include <limits.h>
 
 typedef struct		s_ant
