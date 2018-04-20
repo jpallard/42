@@ -1,9 +1,3 @@
-projet basique d'algorithme ayant pour but de faire aller des fourmis d'un point A a un point B dans une fourmiliere donnée sur l entree standart
+projet basique d'algorithme ayant pour but de faire aller des fourmis d'un point A a un point B dans une fourmiliere virtuel
 
-les fourmilieres sont construites suivant un format determine :
-
-Nombres de fourmis
-Salles
-tubes reliant les salles
-
-l'entrée et la sortie sont definies respectivement par les commandes ##start et ##end
+pour le sujet compelt https://cdn.intra.42.fr/pdf/pdf/185/lem-in.fr.pdf
